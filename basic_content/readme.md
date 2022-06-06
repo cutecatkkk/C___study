@@ -53,3 +53,29 @@
 ## 使用
 ## 大小和对齐
 ## 初始化和重映射
+
+# extern "c"
+## c++与c编译区别
+## c++调用c函数
+
+# struct和class
+## struct c与c++区别
+## struct与class区别
+
+# union
+
+# explicit
+
+# friend
+
+# using
+
+# ::
+
+# enum
+
+# decltype
+
+# 引用和指针
+
+# 宏
